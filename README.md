@@ -8,7 +8,7 @@
 📚 Estou cursando Engenharia de software <br>
 📫 gafityr@gmail.com
 ----
-[![Gafity's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gafity&show_icons=True&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Gafity's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gafity&show_icons=True&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
