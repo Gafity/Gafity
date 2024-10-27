@@ -1,4 +1,15 @@
-## Hi there 👋
+# Bem vindo ao meu Github 🐍! 
+
+![boku gif](https://media.tenor.com/HPmPdJ-iyW4AAAAC/boku-no-hero-academia.gif)
+🌱 Olá, me chamo Gabriel! <br>
+💬 Atualmente sou desenvolvedor python 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20"/>
+          <br>
+📚 Estou cursando Engenharia de software <br>
+📫 gafityr@gmail.com
+----
+
+
 
 <!--
 **Gafity/Gafity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
