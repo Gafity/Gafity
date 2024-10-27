@@ -1,6 +1,6 @@
 # Bem vindo ao meu Github 🐍! 
 
-![boku gif](https://media.tenor.com/HPmPdJ-iyW4AAAAC/boku-no-hero-academia.gif)
+![boku gif](https://media.tenor.com/HPmPdJ-iyW4AAAAC/boku-no-hero-academia.gif) <br>
 🌱 Olá, me chamo Gabriel! <br>
 💬 Atualmente sou desenvolvedor python 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20"/>
