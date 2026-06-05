@@ -5,8 +5,8 @@
 💬 Atualmente sou desenvolvedor python 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20"/>
           <br>
-📚 Estou cursando Engenharia de software <br>
-📫 gafityr@gmail.com
+📚 Sou formado em Engenharia de software <br>
+📫 devgabrielgama@gmail.com
 ----
 [![Gafity's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gafity&show_icons=True&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
